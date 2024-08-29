@@ -14,7 +14,7 @@ The **Grocery List App** is a simple and intuitive application that helps users 
 
 ## Screenshot
 
-![Grocery List App Screenshot](assets/screenshot.png)
+![Grocery List App Screenshot](assets/Screenshot.png)
 
 ## Getting Started
 
