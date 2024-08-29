@@ -84,5 +84,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Contact
 
-For any questions or suggestions, feel free to open an issue or contact me directly at [clarity471@gmail.com]
-(mailto:your.clarity471@gmail.com)
+For any questions or suggestions, feel free to open an issue or contact me directly [through email](mailto:your.clarity471@gmail.com)
